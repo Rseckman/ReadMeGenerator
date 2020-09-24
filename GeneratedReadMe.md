@@ -1,8 +1,10 @@
-# ryans Real proj
+# Read Me Generator
 
-  ## Description
+  ## Description 
+  
+  ![badge](https://img.shields.io/badge/License-MIT-blue)
 
-  its even better
+  This is a command line application that takes user input to generate a poper read me file for ones application.
 
   ## Table of Contents
 
@@ -14,15 +16,16 @@
   
   ##  Installation
 
-  do it
+  run node index.js in this directory and answer the prompts
 
   ## Usage
 
-  do it
+  after completing your project, run this command line application to create the read me file for your project.
 
   ## License
 
-  Apache
+  MIT
+
 
   ## Contributing
 
@@ -34,7 +37,7 @@
 
   ## Questions
 
-  If you have any questions you can check out my gitbut account: gitty
-  or contact me at rseckkkkk
+  If you have any questions you can check out my github account: [GitHub](https://github.com/Rseckman)
+  or contact me at rseckman@hotmail.com
 
 
