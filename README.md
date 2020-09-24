@@ -4,7 +4,7 @@
 
   ## Description 
   
-  This project is designed to help the user create a proper read me file for their project.  Using the comman line the user can answer a list of questions that will be formatted into a read me file for their use.
+  This project is designed to help the user create a proper read me file for their project.  Using the command line the user can answer a list of questions that will be formatted into a read me file for their use.
 
   ## Table of Contents
 
@@ -28,11 +28,11 @@
 
   ## Contributing
 
-  no
+  none
 
   ## Tests
 
-  no
+  none
 
   ## Questions
 
